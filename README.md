@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
