@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0234-palindrome-linked-list) |
