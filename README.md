@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0287-find-the-duplicate-number) |
@@ -107,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0234-palindrome-linked-list) |
