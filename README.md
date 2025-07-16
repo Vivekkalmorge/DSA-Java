@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0907-koko-eating-bananas) |
 | [1755-defuse-the-bomb](https://github.com/Vivekkalmorge/DSA-Java/tree/master/1755-defuse-the-bomb) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
