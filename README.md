@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0792-binary-search) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Vivekkalmorge/DSA-Java/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
