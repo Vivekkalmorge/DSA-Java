@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0907-koko-eating-bananas) |
 | [1755-defuse-the-bomb](https://github.com/Vivekkalmorge/DSA-Java/tree/master/1755-defuse-the-bomb) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vivekkalmorge/DSA-Java/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Vivekkalmorge/DSA-Java/tree/master/1755-defuse-the-bomb) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vivekkalmorge/DSA-Java/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vivekkalmorge/DSA-Java/tree/master/0594-longest-harmonious-subsequence) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vivekkalmorge/DSA-Java/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
 |  |
 | ------- |
